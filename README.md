@@ -1,6 +1,6 @@
 # 毒鸡汤
 
-静态页面版 [egotong/nows][nows]，托管在 GitHub Pages。
+静态页面版 [egotong/nows][nows]，托管在 Cloudflare Pages。
 
 访问地址：<https://dujitang.wllen.org>
 
